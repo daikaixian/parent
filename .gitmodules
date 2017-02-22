@@ -1,0 +1,3 @@
+[submodule "childpath"]
+	path = childpath
+	url = https://github.com/daikaixian/child.git
